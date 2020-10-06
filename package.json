@@ -15,7 +15,7 @@
   "author": "donutsahoy",
   "license": "",
   "devDependencies": {
-    "electron": "^9.0.0",
+    "electron": "^9.3.0",
     "electron-installer-dmg": "^3.0.0",
     "electron-packager": "^14.2.1"
   },
